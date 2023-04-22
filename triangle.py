@@ -8,4 +8,5 @@ def triangle(a, b, c):
     elif a == b and b == c:
         return 2
     else:
+        print("hi")
         return 4
